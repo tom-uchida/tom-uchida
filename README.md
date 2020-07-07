@@ -7,15 +7,19 @@
 </p>
 
 ## Link
-- [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
+<!-- - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [GitHub](https://github.com/tom-uchida)
 - [Twitter](https://twitter.com/tomomasa_JP)
 - [Blog](http://tom0930.hatenablog.com/)
-- [Vimeo](https://vimeo.com/tomomasa)
+- [Vimeo](https://vimeo.com/tomomasa) -->
+
+<p align="center">
 
 |GitHub|LinkedIn|Twitter|Blog|Vimeo|
 |:-:|:-:|:-:|:-:|:-:|
 |[![GitHub](figures/GitHub-Mark-120px-plus.png)](https://github.com/tom-uchida)|[![LinkedIn](figures/LI-In-Bug.png)](https://www.linkedin.com/in/tomomasa-uchida/)|[![Twitter](figures/Twitter_Social_Icon_Circle_Color.png)](https://twitter.com/tomomasa_JP)|[![Blog](figures/hatenablog-logo.png)](http://tom0930.hatenablog.com/)|[![Vimeo](figures/vimeo_icon_blue_on_white_rounded.png)](https://vimeo.com/tomomasa)|
+
+</p>
 
 <br>
 
