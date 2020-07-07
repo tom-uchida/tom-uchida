@@ -6,27 +6,30 @@
   <br>
 </p>
 
-## Link
+## SNS
 <!-- - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [GitHub](https://github.com/tom-uchida)
 - [Twitter](https://twitter.com/tomomasa_JP)
 - [Blog](http://tom0930.hatenablog.com/)
 - [Vimeo](https://vimeo.com/tomomasa) -->
 
-<p align="center">
-
 |GitHub|LinkedIn|Twitter|Blog|Vimeo|
 |:-:|:-:|:-:|:-:|:-:|
-|[![GitHub](figures/GitHub-Mark-120px-plus.png)](https://github.com/tom-uchida)|[![LinkedIn](figures/LI-In-Bug.png)](https://www.linkedin.com/in/tomomasa-uchida/)|[![Twitter](figures/Twitter_Social_Icon_Circle_Color.png)](https://twitter.com/tomomasa_JP)|[![Blog](figures/hatenablog-logo.png)](http://tom0930.hatenablog.com/)|[![Vimeo](figures/vimeo_icon_blue_on_white_rounded.png)](https://vimeo.com/tomomasa)|
-
-</p>
+|[![GitHub](figures/SNS/GitHub.png)](https://github.com/tom-uchida)|[![LinkedIn](figures/SNS/LinkedIn.png)](https://www.linkedin.com/in/tomomasa-uchida/)|[![Twitter](figures/SNS/Twitter.png)](https://twitter.com/tomomasa_JP)|[![Blog](figures/SNS/hatenablog.png)](http://tom0930.hatenablog.com/)|[![Vimeo](figures/SNS/vimeo.png)](https://vimeo.com/tomomasa)|
 
 <br>
 
 ## Research
+
+### Gallery
+|Cultural Assets|Shrine|Factory|Building|
+|:-:|:-:|:-:|:-:|
+|![funehoko](figures/Research/funehoko.png)|![haiden](figures/Research/haiden.png)|![factory](figures/Research/factory.png)|![kyojo](figures/Research/kyojo.png)|
+
 ### Laboratory
 - [CG Laboratory 1](http://www.cg.is.ritsumei.ac.jp/index.html)
    - [[Research Introduction]](https://shiruto.jp/technology/1474/)
+
       
 ### Paper
 #### 2020
@@ -72,28 +75,28 @@
 
 ## Work Experiences
 #### 2021
-- 2021/4 ~ : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
+- Apr. 1, 2021 ~ : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
    - R&D(Technology and Product Development)@minatomirai21
 
 #### 2020
-- 2020/2/26: <b>Sony</b> (Internship)
+- Feb. 26, 2020: <b>Sony</b> (Internship)
    - Sony Curiosity Lab Open House
       - Professional/Medical Equipments・Imaging Solutions
-- 2020/1/23: <b>Fuji Xerox</b> (Internship)
+- Jan. 23, 2020: <b>Fuji Xerox</b> (Internship)
    - Hands-on workshop [Advanced Level]
 
 #### 2019
-- 2019/10/31: <b>Fuji Xerox</b> (Internship)
+- Oct. 31, 2019: <b>Fuji Xerox</b> (Internship)
    - Hands-on workshop [Basic Level]
-- 2019/8/21 ~ 2019/9/3: <b>Murata Manufacturing</b> (Internship)
+- Aug. 21 ~ Sep. 3, 2019: <b>Murata Manufacturing</b> (Internship)
    - Investigation and evaluation of image processing technology for imaged images of electronic parts
 
 #### 2017
-- 2017/10 ~ 2019/4: <b>Kyoto Robotics</b> (Part-time job)
+- Oct. 16, 2017 ~ Apr. 31, 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implementation of PCA for 3D point clouds using PCL
    - Web application development using Python, Flask, React and JavaScript
-- 2017/6：<b>teamLab</b> (Internship)
-   - Art works selection passed
+- Jun. 9, 2017: <b>teamLab</b> (Internship)
+   - Passed art works selection
 
 <br>
 
@@ -112,4 +115,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-# tom-uchida
