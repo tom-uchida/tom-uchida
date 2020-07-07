@@ -15,7 +15,7 @@
 
 |GitHub|LinkedIn|Twitter|Blog|Vimeo|
 |:-:|:-:|:-:|:-:|:-:|
-|![GitHub](figures/GitHub-Mark-120px-plus.png)|![LinkedIn](figures/LI-In-Bug.png)|![Twitter](figures/Twitter_Social_Icon_Circle_Color.png)|![Blog](figures/hatenablog-logo.png)|![Vimeo](figures/vimeo_icon_blue_on_white_rounded.png)|
+|[![GitHub](figures/GitHub-Mark-120px-plus.png)](https://github.com/tom-uchida)|[![LinkedIn](figures/LI-In-Bug.png)](https://www.linkedin.com/in/tomomasa-uchida/)|[![Twitter](figures/Twitter_Social_Icon_Circle_Color.png)](https://twitter.com/tomomasa_JP)|[![Blog](figures/hatenablog-logo.png)](http://tom0930.hatenablog.com/)|[![Vimeo](figures/vimeo_icon_blue_on_white_rounded.png)](https://vimeo.com/tomomasa)|
 
 <br>
 
