@@ -32,8 +32,9 @@
 
 ## Research
 
+<!-- 
 ### Gallery
-<!-- |Cultural Assets|Shrine|Factory|Building|
+|Cultural Assets|Shrine|Factory|Building|
 |:-:|:-:|:-:|:-:|
 |![funehoko](figures/Research/funehoko.png)|![haiden](figures/Research/haiden.png)|![factory](figures/Research/factory.png)|![kyojo](figures/Research/kyojo.png)| -->
 
