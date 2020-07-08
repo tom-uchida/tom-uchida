@@ -6,25 +6,36 @@
   <br>
 </p>
 
+## About me
+- I'm a 2nd-year master's student at Ritsumeikan University <b>Graduate School of Information Science and Engineering</b>.
+- I currently use the following programming languages mainly:
+   - C++
+   - Python
+- I'm currently interested in and learning the following contents:
+   - Machine Learning / Deep Learning
+   - English Listening/Reading Skills
+
+<br>
+
 ## SNS
-<!-- - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
+- [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [GitHub](https://github.com/tom-uchida)
 - [Twitter](https://twitter.com/tomomasa_JP)
 - [Blog](http://tom0930.hatenablog.com/)
-- [Vimeo](https://vimeo.com/tomomasa) -->
+- [Vimeo](https://vimeo.com/tomomasa)
 
-|GitHub|LinkedIn|Twitter|Blog|Vimeo|
+<!-- |GitHub|LinkedIn|Twitter|Blog|Vimeo|
 |:-:|:-:|:-:|:-:|:-:|
-|[![GitHub](figures/SNS/GitHub.png)](https://github.com/tom-uchida)|[![LinkedIn](figures/SNS/LinkedIn.png)](https://www.linkedin.com/in/tomomasa-uchida/)|[![Twitter](figures/SNS/Twitter.png)](https://twitter.com/tomomasa_JP)|[![Blog](figures/SNS/hatenablog.png)](http://tom0930.hatenablog.com/)|[![Vimeo](figures/SNS/vimeo.png)](https://vimeo.com/tomomasa)|
+|[![GitHub](figures/SNS/GitHub.png)](https://github.com/tom-uchida)|[![LinkedIn](figures/SNS/LinkedIn.png)](https://www.linkedin.com/in/tomomasa-uchida/)|[![Twitter](figures/SNS/Twitter.png)](https://twitter.com/tomomasa_JP)|[![Blog](figures/SNS/hatenablog.png)](http://tom0930.hatenablog.com/)|[![Vimeo](figures/SNS/vimeo.png)](https://vimeo.com/tomomasa)| -->
 
 <br>
 
 ## Research
 
 ### Gallery
-|Cultural Assets|Shrine|Factory|Building|
+<!-- |Cultural Assets|Shrine|Factory|Building|
 |:-:|:-:|:-:|:-:|
-|![funehoko](figures/Research/funehoko.png)|![haiden](figures/Research/haiden.png)|![factory](figures/Research/factory.png)|![kyojo](figures/Research/kyojo.png)|
+|![funehoko](figures/Research/funehoko.png)|![haiden](figures/Research/haiden.png)|![factory](figures/Research/factory.png)|![kyojo](figures/Research/kyojo.png)| -->
 
 ### Laboratory
 - [CG Laboratory 1](http://www.cg.is.ritsumei.ac.jp/index.html)
