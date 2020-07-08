@@ -18,8 +18,8 @@
 <br>
 
 ## SNS
-- [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [GitHub](https://github.com/tom-uchida)
+- [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [Twitter](https://twitter.com/tomomasa_JP)
 - [Blog](http://tom0930.hatenablog.com/)
 - [Vimeo](https://vimeo.com/tomomasa)
@@ -40,14 +40,14 @@
 
 ### Laboratory
 - [CG Laboratory 1](http://www.cg.is.ritsumei.ac.jp/index.html)
-   - [[Research Introduction]](https://shiruto.jp/technology/1474/)
+   - [[Article]](https://shiruto.jp/technology/1474/)
 
       
 ### Paper
 #### 2020
 - ["Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning"](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
    - [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing), vol.161, pp.124-134, March 2020.
-      - <b>IF: 7.319, h5-index: 69</b>
+      - <b>h5-index: 77, IF: 7.319</b> (as of 2020)
 
 #### 2019
 - ["High-quality Visualization of Large-Scale Noisy Point Clouds Acquired by 3D Scanning"](https://github.com/tom-uchida/Academic_Conference/blob/master/JSST2019/paper/jsst2019_tuchida.pdf)
@@ -79,8 +79,11 @@
    - [[Work]](https://vimeo.com/265704935), [[Presentation materials]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
 
 #### 2017
+- <b>Best Award</b> (out of about 10 groups)
+   - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media informatics experiment 3 (Jul. 19, 2017)
+   - [[Work]](https://vimeo.com/230357392)
 - [<b>Best Award</b> (out of about 100 people)](https://drive.google.com/open?id=1-j5GEObt6aXAQBm3Bes6aAiEtYmnwYSR)
-   - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information (Jul. 18, 2017)
+   - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media Project Exercise 2 (Jul. 18, 2017)
    - [[Work]](https://vimeo.com/219812457), [[Presentation materials]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
 
 <br>
