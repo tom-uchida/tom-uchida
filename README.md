@@ -64,8 +64,8 @@
 
 ## Awards
 #### 2020
-- [<b>Excellent Research Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
-   - Ritsumeikan University, Graduate School of Information Science and Engineering: Research Award 2019 (Feb. 26, 2020)
+- [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
+   - Ritsumeikan University, Graduate School of Information Science and Engineering: Research Award AY2019 (Feb. 26, 2020)
    - [[Paper]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
 
 #### 2019
@@ -116,6 +116,7 @@
 <br>
 
 ## Certification
+- JDLA Deep Learning for <b>GENERAL 2020 #2</b>
 - TOEIC Listening & Reading <b>785(L:400, R:385)</b>
 
 <!-- **tom-uchida/tom-uchida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
