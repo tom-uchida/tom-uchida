@@ -3,6 +3,7 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
+  (Last updated on Jul. 18, 2020)<br>
   <br>
 </p>
 
@@ -12,8 +13,8 @@
    - C++
    - Python
 - I'm currently interested in and learning the following contents:
+   - Software Development
    - Machine Learning / Deep Learning
-   - English Listening/Reading Skills
 
 <br>
 
@@ -43,11 +44,11 @@
    - [[Article]](https://shiruto.jp/technology/1474/)
 
       
-### Paper
+### Papers
 #### 2020
 - ["Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning"](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
-   - [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing), vol.161, pp.124-134, March 2020.
-      - <b>h5-index: 77, IF: 7.319</b> (as of 2020)
+   - ISPRS Journal of Photogrammetry and Remote Sensing, vol.161, pp.124-134, March 2020.
+      - <b>[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)</b> (as of 2020)
 
 #### 2019
 - ["High-quality Visualization of Large-Scale Noisy Point Clouds Acquired by 3D Scanning"](https://github.com/tom-uchida/Academic_Conference/blob/master/JSST2019/paper/jsst2019_tuchida.pdf)
@@ -66,7 +67,7 @@
 #### 2020
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: Research Award AY2019 (Feb. 26, 2020)
-   - [[Paper]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
+   - [[Paper(Open access)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
 
 #### 2019
 - [<b>Best Paper Award</b> (out of Bachelor Students)](https://drive.google.com/open?id=1DN2Skn5slFRlox-MshdRID4vSQW7gUCU)
@@ -90,33 +91,33 @@
 
 ## Work Experiences
 #### 2021
-- Apr. 1, 2021 ~ : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
-   - R&D(Technology and Product Development)@minatomirai21
+- Apr. 2021 ~ : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
+   - R&D(Technology and Product Development)@MM21
 
 #### 2020
-- Feb. 26, 2020: <b>Sony</b> (Internship)
+- Feb. 2020: <b>Sony</b> (Internship)
    - Sony Curiosity Lab Open House
       - Professional/Medical Equipments・Imaging Solutions
-- Jan. 23, 2020: <b>Fuji Xerox</b> (Internship)
+- Jan. 2020: <b>Fuji Xerox</b> (Internship)
    - Hands-on workshop [Advanced Level]
 
 #### 2019
-- Oct. 31, 2019: <b>Fuji Xerox</b> (Internship)
+- Oct. 2019: <b>Fuji Xerox</b> (Internship)
    - Hands-on workshop [Basic Level]
-- Aug. 21 ~ Sep. 3, 2019: <b>Murata Manufacturing</b> (Internship)
+- Aug. ~ Sep. 2019: <b>Murata Manufacturing</b> (Internship)
    - Investigation and evaluation of image processing technology for imaged images of electronic parts
 
 #### 2017
-- Oct. 16, 2017 ~ Apr. 31, 2019: <b>Kyoto Robotics</b> (Part-time job)
+- Oct. 2017 ~ Apr. 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implementation of PCA for 3D point clouds using PCL
    - Web application development using Python, Flask, React and JavaScript
-- Jun. 9, 2017: <b>teamLab</b> (Internship)
+- Jun. 2017: <b>teamLab</b> (Internship)
    - Passed art works selection
 
 <br>
 
 ## Certification
-- JDLA Deep Learning for <b>GENERAL 2020 #2</b>
+- JDLA <b>Deep Learning for GENERAL 2020 #2</b>
 - TOEIC Listening & Reading <b>785(L:400, R:385)</b>
 
 <!-- **tom-uchida/tom-uchida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
