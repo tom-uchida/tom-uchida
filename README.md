@@ -3,7 +3,7 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Jul. 18, 2020)<br>
+  (Last updated on Jul. 30, 2020)<br>
   <br>
 </p>
 
@@ -13,7 +13,7 @@
    - C++
    - Python
 - I'm currently interested in and learning the following contents:
-   - Software Development
+   - Software Engineering
    - Machine Learning / Deep Learning
 
 <br>
@@ -44,13 +44,13 @@
    - [[Article]](https://shiruto.jp/technology/1474/)
 
       
-### Papers
+### Papers(selected)
 #### 2020
 - ["Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning"](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
    - ISPRS Journal of Photogrammetry and Remote Sensing, vol.161, pp.124-134, March 2020.
       - <b>[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)</b> (as of 2020)
 
-#### 2019
+<!-- #### 2019
 - ["High-quality Visualization of Large-Scale Noisy Point Clouds Acquired by 3D Scanning"](https://github.com/tom-uchida/Academic_Conference/blob/master/JSST2019/paper/jsst2019_tuchida.pdf)
    - The 38th JSST Annual International Conference on Simulation Technology (JSST2019)
    - New Well City Miyazaki, Miyazaki Prefecture, Japan, November 5-7 (November 6), 2019.
@@ -59,15 +59,15 @@
    - Kyoto University, International Science Innovation Building, July 25-27 (July 26), 2019.
 - ["レーザ計測によって取得された大規模３次元点群の自動ノイズ平滑化と高品質透視可視化"](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg)
    - The 2nd Visualization Workshop
-   - Tokyo City University, Yokohama Campus, March 7, 2019.
+   - Tokyo City University, Yokohama Campus, March 7, 2019. -->
 
 <br>
 
 ## Awards
 #### 2020
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
-   - Ritsumeikan University, Graduate School of Information Science and Engineering: Research Award AY2019 (Feb. 26, 2020)
-   - [[Paper(Open access)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
+   - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 26, 2020)
+   - [[Paper(open access)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
 
 #### 2019
 - [<b>Best Paper Award</b> (out of Bachelor Students)](https://drive.google.com/open?id=1DN2Skn5slFRlox-MshdRID4vSQW7gUCU)
@@ -80,9 +80,9 @@
    - [[Work]](https://vimeo.com/265704935), [[Presentation materials]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
 
 #### 2017
-- <b>Best Award</b> (out of about 10 groups)
+<!-- - <b>Best Award</b> (out of about 10 groups)
    - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media informatics experiment 3 (Jul. 19, 2017)
-   - [[Work]](https://vimeo.com/230357392)
+   - [[Work]](https://vimeo.com/230357392) -->
 - [<b>Best Award</b> (out of about 100 people)](https://drive.google.com/open?id=1-j5GEObt6aXAQBm3Bes6aAiEtYmnwYSR)
    - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media Project Exercise 2 (Jul. 18, 2017)
    - [[Work]](https://vimeo.com/219812457), [[Presentation materials]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
