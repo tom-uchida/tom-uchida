@@ -3,7 +3,7 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Jul. 30, 2020)<br>
+  (Last updated on Aug. 2, 2020)<br>
   <br>
 </p>
 
@@ -44,8 +44,8 @@
    - [[Article]](https://shiruto.jp/technology/1474/)
 
       
-### Papers(selected)
-#### 2020
+### Selected Paper
+<!-- #### 2020 -->
 - ["Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning"](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
    - ISPRS Journal of Photogrammetry and Remote Sensing, vol.161, pp.124-134, March 2020.
       - <b>[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)</b> (as of 2020)
@@ -65,11 +65,17 @@
 
 ## Awards
 #### 2020
+- Outstanding Academic Scholarship for 2nd-year master's student(top 25%)
+   - Ritsumeikan University, Graduate School of Information Science and Engineering
+
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 26, 2020)
    - [[Paper(open access)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
 
 #### 2019
+- Outstanding Academic Scholarship for 1st-year master's student(top 25%)
+   - Ritsumeikan University, Graduate School of Information Science and Engineering
+
 - [<b>Best Paper Award</b> (out of Bachelor Students)](https://drive.google.com/open?id=1DN2Skn5slFRlox-MshdRID4vSQW7gUCU)
    - The Visualization Society of Japan: The 2nd Visualization Workshop (Mar. 7, 2019)
    - [[Poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg), [[The 30th Award (The Visualization Society of Japan)]](https://www.vsj.jp/vsjinfo/recognition/recognition30.html)
@@ -92,7 +98,7 @@
 ## Work Experiences
 #### 2021
 - Apr. 2021 ~ : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
-   - R&D(Technology and Product Development)@MM21
+   - R&D(Technology and Product Development)
 
 #### 2020
 - Feb. 2020: <b>Sony</b> (Internship)
@@ -110,13 +116,13 @@
 #### 2017
 - Oct. 2017 ~ Apr. 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implementation of PCA for 3D point clouds using PCL
-   - Web application development using Python, Flask, React and JavaScript
+   - Development of web application using Python, Flask, React and JavaScript
 - Jun. 2017: <b>teamLab</b> (Internship)
-   - Passed art works selection
+   - Passed artworks selection
 
 <br>
 
-## Certification
+## Certifications
 - JDLA <b>Deep Learning for GENERAL 2020 #2</b>
 - TOEIC Listening & Reading <b>785(L:400, R:385)</b>
 
