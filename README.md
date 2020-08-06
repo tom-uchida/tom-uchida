@@ -5,13 +5,14 @@
   Shiga, Japan<br>
   (Last updated on Aug. 6, 2020)<br>
   <br>
+  <br>
 </p>
 
 |GitHub Stats|Used Languages Ratio|
 |:-:|:-:|
 |![](https://github-readme-stats.vercel.app/api?username=tom-uchida&show_icons=true&theme=dark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-uchida&theme=dark)|
 
----
+<br>
 
 ## About me
 - I'm a 2nd-year master's student at Ritsumeikan University <b>Graduate School of Information Science and Engineering</b>.
@@ -73,7 +74,6 @@
 #### 2020
 - Outstanding Academic Scholarship for 2nd-year master's student(top 25%)
    - Ritsumeikan University, Graduate School of Information Science and Engineering
-
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 26, 2020)
    - [[Paper(open access)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
@@ -81,7 +81,6 @@
 #### 2019
 - Outstanding Academic Scholarship for 1st-year master's student(top 25%)
    - Ritsumeikan University, Graduate School of Information Science and Engineering
-
 - [<b>Best Paper Award</b> (out of Bachelor Students)](https://drive.google.com/open?id=1DN2Skn5slFRlox-MshdRID4vSQW7gUCU)
    - The Visualization Society of Japan: The 2nd Visualization Workshop (Mar. 7, 2019)
    - [[Poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg), [[The 30th Award (The Visualization Society of Japan)]](https://www.vsj.jp/vsjinfo/recognition/recognition30.html)
