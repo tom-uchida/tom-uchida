@@ -10,7 +10,7 @@
 
 |GitHub Stats|Used Languages Ratio|
 |:-:|:-:|
-|![](https://github-readme-stats.vercel.app/api?username=tom-uchida&show_icons=true&theme=dark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-uchida&theme=dark)|
+|![](https://github-readme-stats.vercel.app/api?username=tom-uchida&show_icons=true&theme=dark&bg_color=&title_color=2D708EFF&text_color=3CBB75FF&icon_color=FDE725FF)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-uchida&theme=dark&bg_color=&title_color=2D708EFF&text_color=3CBB75FF)|
 
 <br>
 
