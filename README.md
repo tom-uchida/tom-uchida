@@ -11,6 +11,7 @@
 |:-:|:-:|
 |![](https://github-readme-stats.vercel.app/api?username=tom-uchida&show_icons=true&theme=dark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-uchida&theme=dark)|
 
+---
 
 ## About me
 - I'm a 2nd-year master's student at Ritsumeikan University <b>Graduate School of Information Science and Engineering</b>.
