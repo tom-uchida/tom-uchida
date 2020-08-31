@@ -1,4 +1,4 @@
-## Resume
+## About me
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tom-uchida&repo=tom-uchida)](https://github.com/tom-uchida/tom-uchida/tree/master/resume)
 
