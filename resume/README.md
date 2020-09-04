@@ -3,26 +3,15 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Aug. 6, 2020)<br>
+  (Last updated on Sep. 4, 2020)<br>
   <br>
   <br>
 </p>
 
-|GitHub Stats|Used Languages Ratio|
-|:-:|:-:|
-|![](https://github-readme-stats.vercel.app/api?username=tom-uchida&hide_title=true&show_icons=true&theme=dark&bg_color=151780&title_color=3CBB75FF&text_color=EFF65C&icon_color=3CBB75FF)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-uchida&hide_title=true&layout=compact&theme=dark&bg_color=151780&title_color=2D708EFF&text_color=EFF65C)|
-
-<!-- bg_color=481567FF
-title_color=2D708EFF
-text_color=3CBB75FF
-icon_color=FDE725FF -->
-
-<br>
-
 ## About me
 - I'm a 2nd-year master's student at Ritsumeikan University <b>Graduate School of Information Science and Engineering</b>.
 - I'm currently interested in and learning the following contents:
-   - Software Engineering
+   - Software Development
    - Machine Learning
 
 <br>
@@ -78,19 +67,19 @@ icon_color=FDE725FF -->
    - Ritsumeikan University, Graduate School of Information Science and Engineering (May 2020)
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 2020)
-   - [[Paper(open access)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
+   - [[Paper (open access!!)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
 
 #### 2019
 - Outstanding Academic Scholarship for 1st-year master's student (top 25% people)
    - Ritsumeikan University, Graduate School of Information Science and Engineering (Apr. 2019)
 - [<b>Best Paper Award</b> (out of Bachelor Students)](https://drive.google.com/open?id=1DN2Skn5slFRlox-MshdRID4vSQW7gUCU)
    - The Visualization Society of Japan: The 2nd Visualization Workshop (Mar. 2019)
-   - [[Poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg), [[The 30th Award (The Visualization Society of Japan)]](https://www.vsj.jp/vsjinfo/recognition/recognition30.html)
+   - [[Poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg), [[The 30th Award]](https://www.vsj.jp/vsjinfo/recognition/recognition30.html)
 
 #### 2018
 - [<b>Best Presentation Award</b> (out of about 10 people)](https://drive.google.com/open?id=1_yxcxehQvErSbKJgf_N95U-HRNjQJX8v)
    - CG Laboratory 1: Graduation Research (Apr. 2018)
-   - [[Work]](https://vimeo.com/265704935), [[Presentation materials]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
+   - [[Work]](https://vimeo.com/265704935), [[Slide]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
 
 #### 2017
 <!-- - <b>Best Award</b> (out of about 10 groups)
@@ -98,7 +87,7 @@ icon_color=FDE725FF -->
    - [[Work]](https://vimeo.com/230357392) -->
 - [<b>Best Award</b> (out of about 100 people)](https://drive.google.com/open?id=1-j5GEObt6aXAQBm3Bes6aAiEtYmnwYSR)
    - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media Project Exercise 2 (July 2017)
-   - [[Work]](https://vimeo.com/219812457), [[Presentation materials]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
+   - [[Work]](https://vimeo.com/219812457), [[Slide]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
 
 <br>
 
@@ -108,23 +97,23 @@ icon_color=FDE725FF -->
    - R&D(Technology and Product Development)
 
 #### 2020
-- Feb. 2020: <b>Sony</b> (Internship)
+- Feb. 2020: <b>Sony</b> (1day-Internship)
    - Sony Curiosity Lab Open House
       - Professional/Medical Equipments・Imaging Solutions
-- Jan. 2020: <b>Fuji Xerox</b> (Internship)
+- Jan. 2020: <b>Fuji Xerox</b> (1day-Internship)
    - Hands-on workshop [Advanced Level]
 
 #### 2019
-- Oct. 2019: <b>Fuji Xerox</b> (Internship)
+- Oct. 2019: <b>Fuji Xerox</b> (1day-Internship)
    - Hands-on workshop [Basic Level]
-- Aug. ~ Sep. 2019: <b>Murata Manufacturing</b> (Internship)
+- Aug. ~ Sep. 2019: <b>Murata Manufacturing</b> (2weeks-Internship)
    - Investigation and evaluation of image processing technology for imaged images of electronic parts
 
 #### 2017
 - Oct. 2017 ~ Apr. 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implementation of PCA for 3D point clouds using PCL
    - Development of web application using Python, Flask, React and JavaScript
-- June 2017: <b>teamLab</b> (Internship)
+- June 2017: <b>teamLab</b> (Summer-Internship)
    - Passed artworks selection
 
 <br>
