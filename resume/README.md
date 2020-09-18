@@ -3,25 +3,27 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Sep. 4, 2020)<br>
+  (Last updated on Sep. 18, 2020)<br>
   <br>
   <br>
 </p>
 
 ## About me
+### Biography
 - I'm a 2nd-year master's student at Ritsumeikan University <b>Graduate School of Information Science and Engineering</b>.
-- I'm currently interested in and learning the following contents:
-   - Software Development
-   - Machine Learning
 
-<br>
+### Interests
+- Software Development
+- Machine Learning
 
-## SNS
+### SNS
 - [GitHub](https://github.com/tom-uchida)
 - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [Twitter](https://twitter.com/tomomasa_JP)
 - [Blog](http://tom0930.hatenablog.com/)
 - [Vimeo](https://vimeo.com/tomomasa)
+
+<br>
 
 <!-- |GitHub|LinkedIn|Twitter|Blog|Vimeo|
 |:-:|:-:|:-:|:-:|:-:|
@@ -93,24 +95,24 @@
 
 ## Work Experiences
 #### 2021
-- Apr. 2021 ~ : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
+- Apr 2021 - : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
    - R&D(Technology and Product Development)
 
 #### 2020
-- Feb. 2020: <b>Sony</b> (1day-Internship)
+- Feb 2020: <b>Sony</b> (1day-Internship)
    - Sony Curiosity Lab Open House
       - Professional/Medical Equipments・Imaging Solutions
-- Jan. 2020: <b>Fuji Xerox</b> (1day-Internship)
+- Jan 2020: <b>Fuji Xerox</b> (1day-Internship)
    - Hands-on workshop [Advanced Level]
 
 #### 2019
-- Oct. 2019: <b>Fuji Xerox</b> (1day-Internship)
+- Oct 2019: <b>Fuji Xerox</b> (1day-Internship)
    - Hands-on workshop [Basic Level]
-- Aug. ~ Sep. 2019: <b>Murata Manufacturing</b> (2weeks-Internship)
+- Aug - Sep 2019: <b>Murata Manufacturing</b> (2weeks-Internship)
    - Investigation and evaluation of image processing technology for imaged images of electronic parts
 
 #### 2017
-- Oct. 2017 ~ Apr. 2019: <b>Kyoto Robotics</b> (Part-time job)
+- Oct 2017 - Apr 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implementation of PCA for 3D point clouds using PCL
    - Development of web application using Python, Flask, React and JavaScript
 - June 2017: <b>teamLab</b> (Summer-Internship)
