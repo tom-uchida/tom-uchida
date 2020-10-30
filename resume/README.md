@@ -1,5 +1,18 @@
 <!-- ### Hi there 👋 -->
 
+<!-- **tom-uchida/tom-uchida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
@@ -69,7 +82,7 @@
    - Ritsumeikan University, Graduate School of Information Science and Engineering (May 2020)
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 2020)
-   - [[Paper (open access!!)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
+   - [[Paper (open access!)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
 
 #### 2019
 - Outstanding Academic Scholarship for 1st-year master's student (top 25% people)
@@ -113,8 +126,8 @@
 
 #### 2017
 - Oct 2017 - Apr 2019: <b>Kyoto Robotics</b> (Part-time job)
-   - Implementation of PCA for 3D point clouds using PCL
-   - Development of web application using Python, Flask, React and JavaScript
+   - Implemented PCA for 3D point clouds with PCL
+   - Developped web application with Python, Flask, React, and JavaScript
 - June 2017: <b>teamLab</b> (Summer-Internship)
    - Passed artworks selection
 
@@ -123,16 +136,3 @@
 ## Certifications
 - JDLA <b>Deep Learning for GENERAL 2020 #2</b>
 - TOEIC Listening & Reading <b>785(L:400, R:385)</b>
-
-<!-- **tom-uchida/tom-uchida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
