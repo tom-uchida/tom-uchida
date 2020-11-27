@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Sep. 18, 2020)<br>
+  (Last updated on Nov. 27, 2020)<br>
   <br>
   <br>
 </p>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Interests
 - Software Development
-- Machine Learning
+- Practical application of Machine Learning / Deep Learning
 
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
@@ -116,13 +116,13 @@ Here are some ideas to get you started:
    - Sony Curiosity Lab Open House
       - Professional/Medical Equipments・Imaging Solutions
 - Jan 2020: <b>Fuji Xerox</b> (1day-Internship)
-   - Hands-on workshop [Advanced Level]
+   - Software development workshop [Advanced Level]
 
 #### 2019
 - Oct 2019: <b>Fuji Xerox</b> (1day-Internship)
-   - Hands-on workshop [Basic Level]
+   - Software development workshop [Basic Level]
 - Aug - Sep 2019: <b>Murata Manufacturing</b> (2weeks-Internship)
-   - Investigation and evaluation of image processing technology for imaged images of electronic parts
+   - Researched image processing technology for electronic parts images
 
 #### 2017
 - Oct 2017 - Apr 2019: <b>Kyoto Robotics</b> (Part-time job)
