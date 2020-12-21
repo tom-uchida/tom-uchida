@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Nov. 27, 2020)<br>
+  (Last updated on Dec. 21, 2020)<br>
   <br>
   <br>
 </p>
@@ -134,5 +134,5 @@ Here are some ideas to get you started:
 <br>
 
 ## Certifications
+- TOEIC Listening & Reading <b>795</b>
 - JDLA <b>Deep Learning for GENERAL 2020 #2</b>
-- TOEIC Listening & Reading <b>785(L:400, R:385)</b>
