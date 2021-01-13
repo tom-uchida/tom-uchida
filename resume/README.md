@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Dec. 21, 2020)<br>
+  (Last updated on Jan. 13, 2021)<br>
   <br>
   <br>
 </p>
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
 - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
+- [Wantedly](https://www.wantedly.com/id/tomomasa_uchida)
 - [Twitter](https://twitter.com/tomomasa_JP)
 - [Blog](http://tom0930.hatenablog.com/)
 - [Vimeo](https://vimeo.com/tomomasa)
@@ -108,8 +109,8 @@ Here are some ideas to get you started:
 
 ## Work Experiences
 #### 2021
-- Apr 2021 - : <b>Fuji Xerox</b> (FUJIFILM Business Innovation)
-   - R&D(Technology and Product Development)
+- Apr 2021 - : <b>Fuji Xerox</b>(FUJIFILM Business Innovation)
+   - R&D Engineer
 
 #### 2020
 - Feb 2020: <b>Sony</b> (1day-Internship)
