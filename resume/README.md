@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   Shiga, Japan<br>
-  (Last updated on Jan. 13, 2021)<br>
+  (Last updated on Jan. 22, 2021)<br>
   <br>
   <br>
 </p>
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - ["Noise-robust transparent visualization of large-scale point clouds acquired by laser scanning"](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
    - ISPRS Journal of Photogrammetry and Remote Sensing, vol.161, pp.124-134, March 2020.
       - <b>[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)</b> (as of 2020)
+    - [[pdf]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
 
 <!-- #### 2019
 - ["High-quality Visualization of Large-Scale Noisy Point Clouds Acquired by 3D Scanning"](https://github.com/tom-uchida/Academic_Conference/blob/master/JSST2019/paper/jsst2019_tuchida.pdf)
@@ -83,19 +84,19 @@ Here are some ideas to get you started:
    - Ritsumeikan University, Graduate School of Information Science and Engineering (May 2020)
 - [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 2020)
-   - [[Paper (open access!)]](https://reader.elsevier.com/reader/sd/pii/S0924271620300046?token=9B55301CB5439EDA7ADA6E445FEA086D2774C2E03E10D7BFE163933F6AC6D8E0F5016F0E3497F2D2A89299F87DF1D6B3)
+   - [[pdf]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
 
 #### 2019
 - Outstanding Academic Scholarship for 1st-year master's student (top 25% people)
    - Ritsumeikan University, Graduate School of Information Science and Engineering (Apr. 2019)
 - [<b>Best Paper Award</b> (out of Bachelor Students)](https://drive.google.com/open?id=1DN2Skn5slFRlox-MshdRID4vSQW7gUCU)
    - The Visualization Society of Japan: The 2nd Visualization Workshop (Mar. 2019)
-   - [[Poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg), [[The 30th Award]](https://www.vsj.jp/vsjinfo/recognition/recognition30.html)
+   - [[pdf]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg), [[The 30th Award]](https://www.vsj.jp/vsjinfo/recognition/recognition30.html)
 
 #### 2018
 - [<b>Best Presentation Award</b> (out of about 10 people)](https://drive.google.com/open?id=1_yxcxehQvErSbKJgf_N95U-HRNjQJX8v)
    - CG Laboratory 1: Graduation Research (Apr. 2018)
-   - [[Work]](https://vimeo.com/265704935), [[Slide]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
+   - [[video]](https://vimeo.com/265704935), [[pdf]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
 
 #### 2017
 <!-- - <b>Best Award</b> (out of about 10 groups)
@@ -103,7 +104,7 @@ Here are some ideas to get you started:
    - [[Work]](https://vimeo.com/230357392) -->
 - [<b>Best Award</b> (out of about 100 people)](https://drive.google.com/open?id=1-j5GEObt6aXAQBm3Bes6aAiEtYmnwYSR)
    - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media Project Exercise 2 (July 2017)
-   - [[Work]](https://vimeo.com/219812457), [[Slide]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
+   - [[video]](https://vimeo.com/219812457), [[pdf]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
 
 <br>
 
@@ -129,8 +130,8 @@ Here are some ideas to get you started:
 - Oct 2017 - Apr 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implemented PCA for 3D point clouds with PCL
    - Developped web application with Python, Flask, React, and JavaScript
-- June 2017: <b>teamLab</b> (Summer-Internship)
-   - Passed artworks selection
+<!-- - June 2017: <b>teamLab</b> (Summer-Internship)
+   - Passed artworks selection -->
 
 <br>
 
