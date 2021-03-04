@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>Tomomasa Uchida</b><br>
-  Shiga, Japan<br>
-  (Last updated on Jan. 22, 2021)<br>
+  R&D Engineer in Minato Mirai 21, Japan<br>
+  (Last updated on Mar. 4, 2021)<br>
   <br>
   <br>
 </p>
 
 ## About me
-### Biography
-- I'm a 2nd-year master's student at Ritsumeikan University <b>Graduate School of Information Science and Engineering</b>.
 
 ### Interests
 - Software Development
-- Practical application of Machine Learning / Deep Learning
+- Technology Development
 
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
@@ -47,15 +45,9 @@ Here are some ideas to get you started:
 
 ## Research
 
-<!-- 
-### Gallery
-|Cultural Assets|Shrine|Factory|Building|
-|:-:|:-:|:-:|:-:|
-|![funehoko](figures/Research/funehoko.png)|![haiden](figures/Research/haiden.png)|![factory](figures/Research/factory.png)|![kyojo](figures/Research/kyojo.png)| -->
-
-### Laboratory
+<!-- ### Laboratory
 - [CG Laboratory 1](http://www.cg.is.ritsumei.ac.jp/index.html)
-   - [[Article]](https://shiruto.jp/technology/1474/)
+   - [[Article]](https://shiruto.jp/technology/1474/) -->
 
       
 ### Selected Paper
@@ -64,17 +56,6 @@ Here are some ideas to get you started:
    - ISPRS Journal of Photogrammetry and Remote Sensing, vol.161, pp.124-134, March 2020.
       - <b>[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)</b> (as of 2020)
     - [[pdf]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
-
-<!-- #### 2019
-- ["High-quality Visualization of Large-Scale Noisy Point Clouds Acquired by 3D Scanning"](https://github.com/tom-uchida/Academic_Conference/blob/master/JSST2019/paper/jsst2019_tuchida.pdf)
-   - The 38th JSST Annual International Conference on Simulation Technology (JSST2019)
-   - New Well City Miyazaki, Miyazaki Prefecture, Japan, November 5-7 (November 6), 2019.
-- ["確率的ノイズ透明化と輝度調整を用いた大規模3次元計測点群の高品質透視可視化"](https://github.com/tom-uchida/Academic_Conference/blob/master/VSJ2019/paper/VSJ2019_tuchida.pdf)
-   - The Visualization Society of Japan, The 47th Visualization Information Symposium
-   - Kyoto University, International Science Innovation Building, July 25-27 (July 26), 2019.
-- ["レーザ計測によって取得された大規模３次元点群の自動ノイズ平滑化と高品質透視可視化"](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg)
-   - The 2nd Visualization Workshop
-   - Tokyo City University, Yokohama Campus, March 7, 2019. -->
 
 <br>
 
@@ -108,7 +89,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## Work Experiences
+<!-- ## Work Experiences
 #### 2021
 - Apr 2021 - : <b>Fuji Xerox</b>(FUJIFILM Business Innovation)
    - R&D Engineer
@@ -130,11 +111,10 @@ Here are some ideas to get you started:
 - Oct 2017 - Apr 2019: <b>Kyoto Robotics</b> (Part-time job)
    - Implemented PCA for 3D point clouds with PCL
    - Developped web application with Python, Flask, React, and JavaScript
-<!-- - June 2017: <b>teamLab</b> (Summer-Internship)
+- June 2017: <b>teamLab</b> (Summer-Internship)
    - Passed artworks selection -->
 
-<br>
-
 ## Certifications
+- [<b>GCI 2020 Winter</b>(Chair for Global Consumer Intelligence, The Universiy of Tokyo)](https://gci.t.u-tokyo.ac.jp/)
 - TOEIC Listening & Reading <b>795</b>
 - JDLA <b>Deep Learning for GENERAL 2020 #2</b>
