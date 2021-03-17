@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   R&D Engineer in Minato Mirai 21, Japan<br>
-  (Last updated on Mar. 4, 2021)<br>
+  (Last updated on Mar. 17, 2021)<br>
   <br>
   <br>
 </p>
@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 - [GitHub](https://github.com/tom-uchida)
 - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
 - [Wantedly](https://www.wantedly.com/id/tomomasa_uchida)
+- [Speaker Deck](https://speakerdeck.com/tom_uchida)
 - [Twitter](https://twitter.com/tomomasa_JP)
-- [Blog](http://tom0930.hatenablog.com/)
+<!-- - [Blog](http://tom0930.hatenablog.com/) -->
 - [Vimeo](https://vimeo.com/tomomasa)
 
 <br>
@@ -60,10 +61,15 @@ Here are some ideas to get you started:
 <br>
 
 ## Awards
+
+#### 2021
+- GCI 2020 Winter: Excellent Person
+   - Chair for Global Consumer Intelligence, The Universiy of Tokyo
+   - [[pdf]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)
 #### 2020
 - Outstanding Academic Scholarship for 2nd-year master's student (top 25% people)
    - Ritsumeikan University, Graduate School of Information Science and Engineering (May 2020)
-- [<b>Outstanding Student Paper Award</b> (out of about 400 people)](http://www.ritsumei.ac.jp/gsise/news/detail/?id=15)
+- [<b>Outstanding Student Paper Award</b> (out of about 400 people)](https://drive.google.com/open?id=1JEI2IX3yO-tAcp0aEFz9uTxFDgibiQdZ)
    - Ritsumeikan University, Graduate School of Information Science and Engineering: AY2019 Research Award (Feb. 2020)
    - [[pdf]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)
 
@@ -77,7 +83,7 @@ Here are some ideas to get you started:
 #### 2018
 - [<b>Best Presentation Award</b> (out of about 10 people)](https://drive.google.com/open?id=1_yxcxehQvErSbKJgf_N95U-HRNjQJX8v)
    - CG Laboratory 1: Graduation Research (Apr. 2018)
-   - [[video]](https://vimeo.com/265704935), [[pdf]](https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view)
+   - [[video]](https://vimeo.com/265704935), [[pdf]](https://speakerdeck.com/tom_uchida/interactive-point-cloud-processing-application)
 
 #### 2017
 <!-- - <b>Best Award</b> (out of about 10 groups)
@@ -85,7 +91,7 @@ Here are some ideas to get you started:
    - [[Work]](https://vimeo.com/230357392) -->
 - [<b>Best Award</b> (out of about 100 people)](https://drive.google.com/open?id=1-j5GEObt6aXAQBm3Bes6aAiEtYmnwYSR)
    - Ritsumeikan University, College of Information Science and Engineering, Department of Media Information: Media Project Exercise 2 (July 2017)
-   - [[video]](https://vimeo.com/219812457), [[pdf]](https://drive.google.com/file/d/154nJanb5mgGKErlVtFTuWqUecOdZGjwn/view)
+   - [[video]](https://vimeo.com/219812457), [[pdf]](https://speakerdeck.com/tom_uchida/dezitaruatogachuang-richu-suxin-siiti-yan)
 
 <br>
 
