@@ -31,7 +31,7 @@
 |<img src="../figures/Paper/ISPRSJ.png" width="1000">|
 |ISPRS Journal of Photogrammetry and Remote Sensing, vol.161, pp.124-134, March 2020.|
 |[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (as of 2020)|
-|[[pdf]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|
+|[[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|
 
 <br>
 
@@ -40,12 +40,12 @@
 |Best Award|Best Presentation Award|
 |:-:|:-:|
 |<img src="../figures/Awards/Best_Award.jpeg" width="666">|<img src="../figures/Awards/Best_Presentation_Award.jpeg" width="333">|
-|[[video]](https://vimeo.com/219812457), [[pdf]](https://speakerdeck.com/tom_uchida/dezitaruatogachuang-richu-suxin-siiti-yan)|[[video]](https://vimeo.com/265704935), [[pdf]](https://speakerdeck.com/tom_uchida/interactive-point-cloud-processing-application)|
+|[[video]](https://vimeo.com/219812457), [[slide]](https://speakerdeck.com/tom_uchida/dezitaruatogachuang-richu-suxin-siiti-yan)|[[video]](https://vimeo.com/265704935), [[slide]](https://speakerdeck.com/tom_uchida/interactive-point-cloud-processing-application)|
 
-|Best Paper Award|Outstanding Paper Award|GCI 2020 Winter|
+|Best Paper Award|Outstanding Research Award|GCI 2020 Winter|
 |:-:|:-:|:-:|
 |<img src="../figures/Awards/Best_Paper_Award.png" width="333">|<img src="../figures/Awards/Outstanding_Student_Paper_Award.jpeg" width="333">|<img src="../figures/Awards/GCI2020Winter.png" width="333">|
-|[[pdf]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg)|[[pdf]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|[[pdf]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)
+|[[poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg)|[[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|[[slide]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)
 
 <br>
 
