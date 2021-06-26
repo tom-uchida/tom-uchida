@@ -1,7 +1,7 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
   <!-- R&D Engineer in Minato Mirai 21, Japan<br> -->
-  (Last updated on Apr. 29, 2021)<br>
+  (Last updated on June. 26, 2021)<br>
   <br>
   <br>
 </p>
@@ -50,6 +50,7 @@
 <br>
 
 ## Certifications
+- Applied Information Technology Engineer
 - [<b>GCI 2020 Winter</b>(Chair for Global Consumer Intelligence, The Universiy of Tokyo)](https://github.com/tom-uchida/GCI2020_Winter/blob/main/%E4%BF%AE%E4%BA%86%E8%A8%BC_GCI2020Winter_%2050.pdf)
 - TOEIC Listening & Reading <b>795</b>
 - JDLA <b>Deep Learning for GENERAL 2020 #2</b>
