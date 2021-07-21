@@ -51,6 +51,10 @@
 
 ## Certifications
 - Applied Information Technology Engineer
+   - 6/25/2021
 - [<b>GCI 2020 Winter</b>(Chair for Global Consumer Intelligence, The Universiy of Tokyo)](https://github.com/tom-uchida/GCI2020_Winter/blob/main/%E4%BF%AE%E4%BA%86%E8%A8%BC_GCI2020Winter_%2050.pdf)
-- TOEIC Listening & Reading <b>795</b>
+   - 3/12/2021
+- TOEIC Listening & Reading <b>795(L:385, R:410)</b>
+   - 12/6/2020
 - JDLA <b>Deep Learning for GENERAL 2020 #2</b>
+   - 7/4/2020
