@@ -52,7 +52,7 @@
 ## Certifications
 - Applied Information Technology Engineer
    - 6/25/2021
-- [<b>GCI 2020 Winter</b>(Chair for Global Consumer Intelligence, The Universiy of Tokyo)](https://github.com/tom-uchida/GCI2020_Winter/blob/main/%E4%BF%AE%E4%BA%86%E8%A8%BC_GCI2020Winter_%2050.pdf)
+- [<b>GCI 2020 Winter</b>(Chair for Global Consumer Intelligence, The Universiy of Tokyo)](https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/)
    - 3/12/2021
 - TOEIC Listening & Reading <b>795(L:385, R:410)</b>
    - 12/6/2020
