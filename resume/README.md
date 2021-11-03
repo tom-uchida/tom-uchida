@@ -1,14 +1,14 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
-  (Last updated on Sep. 25, 2021)<br>
+  (Last updated on Nov. 3, 2021)<br>
   <br>
   <br>
 </p>
 
 ## About me
 
-I'm a Software Engineer in Minatomirai. I belong to a department called Solution Platform Development. I mainly use the following techniques:
-- Python, Golang, GCP
+I'm a Software Engineer in Minatomirai. I belong to a department called "Solution Platform Development". I mainly use the following techniques:
+- Python, Go, GCP
 
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
@@ -16,8 +16,8 @@ I'm a Software Engineer in Minatomirai. I belong to a department called Solution
 - [Wantedly](https://www.wantedly.com/id/tomomasa_uchida)
 - [Speaker Deck](https://speakerdeck.com/tom_uchida)
 - [Vimeo](https://vimeo.com/tomomasa)
+- [Blog](http://tom0930.hatenablog.com/)
 <!-- - [Twitter](https://twitter.com/tomomasa_JP) -->
-<!-- - [Blog](http://tom0930.hatenablog.com/) -->
 
 <br>
 
@@ -39,12 +39,14 @@ I'm a Software Engineer in Minatomirai. I belong to a department called Solution
 |Best Award|Best Presentation Award|Best Paper Award|
 |:-:|:-:|:-:|
 |<img src="../figures/Awards/Best_Award.jpeg" width="666">|<img src="../figures/Awards/Best_Presentation_Award.jpeg" width="333">|<img src="../figures/Awards/Best_Paper_Award.png" width="333">|
+|July 18, 2017|Apr. 19, 2018|Mar. 7, 2019|
 |[[video]](https://vimeo.com/219812457), [[slide]](https://speakerdeck.com/tom_uchida/dezitaruatogachuang-richu-suxin-siiti-yan)|[[video]](https://vimeo.com/265704935), [[slide]](https://speakerdeck.com/tom_uchida/interactive-point-cloud-processing-application)|[[poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg)|
 
 |Outstanding Research Award|GCI 2020 Winter|Applied Information Technology Engineer|
 |:-:|:-:|:-:|
-|<img src="../figures/Awards/Outstanding_Student_Paper_Award.jpeg" width="333">|<img src="../figures/Awards/GCI2020Winter.png" width="333">|<img src="../figures/Certificates/AP.png" width="333">
-|[[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|[[slide]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)|[None]|
+|<img src="../figures/Awards/Outstanding_Student_Paper_Award.jpeg" width="333">|<img src="../figures/Awards/GCI2020Winter.png" width="333">|<img src="../figures/Certificates/AP.png" width="333">|
+|Mar. 20, 2020|Mar. 12, 2021|June 25, 2021|
+[[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|[[slide]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)|[None]|
 
 <br>
 
