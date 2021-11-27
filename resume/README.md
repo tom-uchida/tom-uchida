@@ -1,6 +1,6 @@
 <p align="center">
   <b>Tomomasa Uchida</b><br>
-  (Last updated on Nov. 3, 2021)<br>
+  (Last updated on Nov. 27, 2021)<br>
   <br>
   <br>
 </p>
@@ -12,11 +12,11 @@ I'm a Software Engineer in Minatomirai. I belong to a department called "Solutio
 
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
-- [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida/)
+- [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida)
 - [Wantedly](https://www.wantedly.com/id/tomomasa_uchida)
 - [Speaker Deck](https://speakerdeck.com/tom_uchida)
 - [Vimeo](https://vimeo.com/tomomasa)
-- [Blog](http://tom0930.hatenablog.com/)
+<!-- - [Blog](http://tom0930.hatenablog.com) -->
 <!-- - [Twitter](https://twitter.com/tomomasa_JP) -->
 
 <br>
@@ -51,11 +51,10 @@ I'm a Software Engineer in Minatomirai. I belong to a department called "Solutio
 <br>
 
 ## Certifications
-- Applied Information Technology Engineer
-   - June 25, 2021
-- [<b>GCI 2020 Winter</b>(Chair for Global Consumer Intelligence, The Universiy of Tokyo)](https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/)
-   - Mar. 12, 2021
-- TOEIC Listening & Reading <b>795(L:385, R:410)</b>
-   - Dec. 6, 2020
-- JDLA <b>Deep Learning for GENERAL 2020 #2</b>
-   - July 4, 2020
+|Name|Date|
+|:-|:-|
+|<b>Deep Learning for GENERAL 2020 #2</b>(JDLA)|July 4, 2020|
+|TOEIC Listening & Reading <b>795(L:385, R:410)</b>|Dec. 6, 2020|
+|[<b>GCI 2020 Winter</b>(The Universiy of Tokyo)](https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/)|Mar. 12, 2021|
+|Applied Information Technology Engineer(IPA)|June 25, 2021|
+|[Associate Cloud Engineer(GCP)](https://www.credential.net/80b3f42e-29ae-40be-a26c-0ecb3ccefe07?key=b76aae0516984a241f409600f10a60e8966a771c895ef3e146489f3260898452)|Nov. 23, 2021|
