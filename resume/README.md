@@ -1,14 +1,14 @@
 <p align="center">
-  <b>Tomomasa Uchida</b><br>
-  (Last updated on Nov. 27, 2021)<br>
-  <br>
-  <br>
+  <b>Tomomasa Uchida</b>
 </p>
 
 ## About me
 
-I'm a Software Engineer in Minatomirai. I belong to a department called "Solution Platform Development". I mainly use the following techniques:
-- Python, Go, GCP
+I develop web service in Minatomirai.
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,go,js,ts,react,docker,gcp)](https://skillicons.dev)
 
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
@@ -18,8 +18,6 @@ I'm a Software Engineer in Minatomirai. I belong to a department called "Solutio
 - [Vimeo](https://vimeo.com/tomomasa)
 <!-- - [Blog](http://tom0930.hatenablog.com) -->
 <!-- - [Twitter](https://twitter.com/tomomasa_JP) -->
-
-<br>
 
 ## Research
 
