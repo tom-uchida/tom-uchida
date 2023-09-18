@@ -8,7 +8,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,go,js,ts,react,docker,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,docker,gcp)](https://skillicons.dev)
 
 ### Status
 
