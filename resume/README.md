@@ -2,14 +2,6 @@
   <b>Tomomasa Uchida</b>
 </p>
 
-## About me
-
-I develop web service in Minatomirai.
-
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,go,js,ts,react,docker,gcp)](https://skillicons.dev)
-
 ### SNS
 - [GitHub](https://github.com/tom-uchida)
 - [LinkedIn](https://www.linkedin.com/in/tomomasa-uchida)
@@ -52,7 +44,8 @@ I develop web service in Minatomirai.
 |Name|Date|
 |:-|:-|
 |<b>Deep Learning for GENERAL 2020 #2</b>(JDLA)|July 4, 2020|
-|TOEIC Listening & Reading <b>795(L:385, R:410)</b>|Dec. 6, 2020|
-|[<b>GCI 2020 Winter</b>(The Universiy of Tokyo)](https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/)|Mar. 12, 2021|
-|Applied Information Technology Engineer(IPA)|June 25, 2021|
-|[Associate Cloud Engineer(GCP)](https://www.credential.net/80b3f42e-29ae-40be-a26c-0ecb3ccefe07?key=b76aae0516984a241f409600f10a60e8966a771c895ef3e146489f3260898452)|Nov. 23, 2021|
+|TOEIC Listening & Reading <b>795(L:385, R:410)</b>|Dec 6, 2020|
+|[<b>GCI 2020 Winter</b>(The Universiy of Tokyo)](https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/)|Mar 12, 2021|
+|Applied Information Technology Engineer(IPA)|Jun 25, 2021|
+|[Associate Cloud Engineer(Google Cloud)](https://www.credential.net/80b3f42e-29ae-40be-a26c-0ecb3ccefe07?key=b76aae0516984a241f409600f10a60e8966a771c895ef3e146489f3260898452)|Nov 23, 2021|
+|[Professional Cloud Developer(Google Cloud)](https://google.accredible.com/fd6356f8-0aab-4d23-85c7-9f3a5a5f4e24?key=15ffabd02c2ef0e12fcfd7ac735480b732f4be6ab77d99d211ceb2057cb498f1)|Jul 29, 2023|
