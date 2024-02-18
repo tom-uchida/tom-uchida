@@ -21,3 +21,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
+### Contact
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/tomomasa-uchida/"><img src="https://img.shields.io/badge/-Tomomasa%20Uchida-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:tomomasa.is.0930@gmail.com"><img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
