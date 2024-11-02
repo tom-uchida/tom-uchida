@@ -1,19 +1,19 @@
 <p align="center">
   <b>内田 知将（Tomomasa Uchida）</b>
 
-  <a href="mailto:tomomasa.is.0930@gmail.com">
+  <p align="center">
+    <a href="mailto:tomomasa.is.0930@gmail.com">
     <img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+    </a>
+  </p>
 
-## SNS
-
-<p align="center">
-  <img src="../figures/logos/github.svg" alt="sd" width="40" height="40"/>
-  <img src="../figures/logos/linkedin.svg" alt="sd" width="40" height="40"/>
-  <img src="../figures/logos/wantedly.svg" alt="sd" width="40" height="40"/>
-  <img src="../figures/logos/speakerdeck.svg" alt="sd" width="40" height="40"/>
-  <img src="../figures/logos/vimeo.svg" alt="sd" width="40" height="40"/>
+  <p align="center">
+    <img src="../figures/logos/github.svg" alt="sd" width="40" height="40"/>
+    <img src="../figures/logos/linkedin.svg" alt="sd" width="40" height="40"/>
+    <img src="../figures/logos/wantedly.svg" alt="sd" width="40" height="40"/>
+    <img src="../figures/logos/speakerdeck.svg" alt="sd" width="40" height="40"/>
+    <img src="../figures/logos/vimeo.svg" alt="sd" width="40" height="40"/>
+  </p>
 </p>
 
 ## 職務経歴
