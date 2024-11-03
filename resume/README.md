@@ -10,32 +10,29 @@
 
 <p align="center">
   <a href="https://github.com/tom-uchida">
-    <img src="../figures/logos/github.svg" width="50" height="50"/>
+    <img src="../figures/logos/github.svg" height="50"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/tomomasa-uchida">
-    <img src="../figures/logos/linkedin.svg" width="50" height="50"/>
+    <img src="../figures/logos/linkedin.svg" height="50"/>
   </a>
-  &nbsp;
   <a href="https://www.wantedly.com/id/tomomasa_uchida">
-    <img src="../figures/logos/wantedly.svg" width="50" height="50"/>
+    <img src="../figures/logos/wantedly.svg" height="50"/>
   </a>
-  &nbsp;
+  <a href="https://lapras.com/public/ALSNTN1">
+    <img src="../figures/logos/lapras.png" height="50"/>
+  </a>
   <a href="https://speakerdeck.com/tom_uchida">
-    <img src="../figures/logos/speakerdeck.svg" width="50" height="50"/>
+    <img src="../figures/logos/speakerdeck.svg" height="50"/>
   </a>
-  &nbsp;
   <a href="https://vimeo.com/tomomasa">
-    <img src="../figures/logos/vimeo.svg" width="50" height="50"/>
+    <img src="../figures/logos/vimeo.svg" height="50"/>
   </a>
 </p>
 
 ## 職務経歴
 
-### <img src="../figures/logos/fujifilm.svg" alt="ff" height="16"/>&nbsp;&nbsp;富士フイルムビジネスイノベーション株式会社
+### <img src="../figures/logos/fujifilm.svg" alt="ff" height="20"/>&nbsp;&nbsp;富士フイルムビジネスイノベーション株式会社
 
-
-#### 
 | 関連サービス | 業務内容 | 技術スタック | 期間 |
 |:-|:-|:-|:-|
 | <a href="https://www.printing.ne.jp/index_p.html"><img src="../figures/logos/netprint.svg" height="20"/></a> | 印刷サービスのバックエンド開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> | 2024年7月 - 現在 |
@@ -64,7 +61,7 @@
 
 | 可視化と科学・文化・社会 |
 |:-:|
-| <a href="https://amzn.to/3NOYRd5"><img src="../figures/logos/9784339013733.jpg" height="200"></a> |
+| <a href="https://amzn.to/3NOYRd5"><img src="../figures/logos/9784339013733.jpg" height="250"></a> |
 | 2023年10月10日 |
 
 ### ジャーナル論文
