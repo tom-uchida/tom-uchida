@@ -4,7 +4,7 @@
 
 ### Resume
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tom-uchida&repo=tom-uchida)](https://github.com/tom-uchida/tom-uchida/tree/master/resume)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tom-uchida&repo=tom-uchida&theme=dark&bg_color=151780&title_color=3CBB75&text_color=EFF65C&icon_color=3CBB75)](https://github.com/tom-uchida/tom-uchida/tree/master/resume)
 
 ### Status
 
@@ -15,16 +15,17 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40"/>
 </p>
 
 ### Contact
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/tomomasa-uchida/"><img src="https://img.shields.io/badge/-Tomomasa%20Uchida-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:tomomasa.is.0930@gmail.com"><img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
