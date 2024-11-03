@@ -1,22 +1,46 @@
 <p align="center">
-  <b>内田 知将（Tomomasa Uchida）</b>
+  <b><big>内田 知将（Tomomasa Uchida）</big></b>
+</p>
 
-  <p align="center">
-    <a href="mailto:tomomasa.is.0930@gmail.com">
-    <img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="mailto:tomomasa.is.0930@gmail.com">
+  <img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
-  <p align="center">
-    <img src="../figures/logos/github.svg" alt="sd" width="40" height="40"/>
-    <img src="../figures/logos/linkedin.svg" alt="sd" width="40" height="40"/>
-    <img src="../figures/logos/wantedly.svg" alt="sd" width="40" height="40"/>
-    <img src="../figures/logos/speakerdeck.svg" alt="sd" width="40" height="40"/>
-    <img src="../figures/logos/vimeo.svg" alt="sd" width="40" height="40"/>
-  </p>
+<p align="center">
+  <a href="https://github.com/tom-uchida">
+    <img src="../figures/logos/github.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tomomasa-uchida">
+    <img src="../figures/logos/linkedin.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.wantedly.com/id/tomomasa_uchida">
+    <img src="../figures/logos/wantedly.svg" width="50" height="50"/>
+  </a>
+  <a href="https://speakerdeck.com/tom_uchida">
+    <img src="../figures/logos/speakerdeck.svg" width="50" height="50"/>
+  </a>
+  <a href="https://vimeo.com/tomomasa">
+    <img src="../figures/logos/vimeo.svg" width="50" height="50"/>
+  </a>
 </p>
 
 ## 職務経歴
+
+### <img src="../figures/logos/fujifilm.svg" alt="ff" height="20"/> 富士フイルムビジネスイノベーション株式会社
+
+
+#### 
+| 期間 | 業務内容 | 使用技術 |
+|:-|:-|:-|
+| 2024年7月 - 現在 | 印刷サービスのバックエンド開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> |
+| 2024年4月 - 現在 | コンテンツサービスのバックエンド開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> |
+| 2023年9月 - 2024年3月 | DDDの技術確立およびコード品質の勉強会主催 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/> |
+| 2022年12月 - 2023年8月 | QRコードを生成するREST API開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> |
+| 2022年12月 - 2023年8月 | Webフロントエンドの技術検証および技術選定 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> |
+| 2021年11月 - 2022年11月 | Google Cloudへのクラウドリフト | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> |
+| 2021年7月 - 2021年9月 | 運用ツール開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40"/> |
 
 ## 資格
 
