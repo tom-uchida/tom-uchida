@@ -1,37 +1,37 @@
 <p align="center">
-  <b>内田 知将（Tomomasa Uchida）</b>
+	<b>内田 知将（Tomomasa Uchida）</b>
 </p>
 
 <p align="center">
-  <a href="mailto:tomomasa.is.0930@gmail.com">
-  <img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
+  	<a href="mailto:tomomasa.is.0930@gmail.com">
+  		<img src="https://img.shields.io/badge/tomomasa.is.0930@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  	</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tom-uchida">
-    <img src="../figures/logos/github.svg" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tomomasa-uchida">
-    <img src="../figures/logos/linkedin.svg" height="50"/>
-  </a>
-  <a href="https://www.wantedly.com/id/tomomasa_uchida">
-    <img src="../figures/logos/wantedly.svg" height="50"/>
-  </a>
-  <a href="https://lapras.com/public/ALSNTN1">
-    <img src="../figures/logos/lapras.png" height="50"/>
-  </a>
-  <a href="https://speakerdeck.com/tom_uchida">
-    <img src="../figures/logos/speakerdeck.svg" height="50"/>
-  </a>
-  <a href="https://vimeo.com/tomomasa">
-    <img src="../figures/logos/vimeo.svg" height="50"/>
-  </a>
+  	<a href="https://github.com/tom-uchida">
+    	<img src="../figures/logos/github.svg" height="50"/>
+  	</a>
+  	<a href="https://www.linkedin.com/in/tomomasa-uchida">
+    	<img src="../figures/logos/linkedin.svg" height="50"/>
+  	</a>
+  	<a href="https://www.wantedly.com/id/tomomasa_uchida">
+    	<img src="../figures/logos/wantedly.svg" height="50"/>
+  	</a>
+  	<a href="https://lapras.com/public/ALSNTN1">
+    	<img src="../figures/logos/lapras.png" height="50"/>
+  	</a>
+  	<a href="https://speakerdeck.com/tom_uchida">
+    	<img src="../figures/logos/speakerdeck.svg" height="50"/>
+  	</a>
+  	<a href="https://vimeo.com/tomomasa">
+    	<img src="../figures/logos/vimeo.svg" height="50"/>
+  	</a>
 </p>
 
 ## 職務経歴
 
-### <img src="../figures/logos/fujifilm.svg" alt="ff" height="20"/>&nbsp;&nbsp;富士フイルムビジネスイノベーション株式会社
+### <p><img src="../figures/logos/fujifilm_corporate_logo.svg" alt="fb" height="28"/>&nbsp;&nbsp;富士フイルムビジネスイノベーション株式会社
 
 | 関連サービス | 業務内容 | 技術スタック | 期間 |
 |:-|:-|:-|:-|
@@ -41,7 +41,7 @@
 | <a href="https://www.printing.ne.jp/index_p.html"><img src="../figures/logos/netprint.svg" height="20"/></a> | QRコードを生成するREST API開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> | 2022年12月 - 2023年08月 |
 | <a href="https://www.printing.ne.jp/index_p.html"><img src="../figures/logos/netprint.svg" height="20"/></a> | Webフロントエンドの技術検証および技術選定 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> | 2022年12月 - 2023年08月 |
 | <a href="https://www.printing.ne.jp/index_p.html"><img src="../figures/logos/netprint.svg" height="20"/></a> | Google Cloudへのクラウドリフト | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> | 2021年11月 - 2022年11月 |
-| <a href="https://www.printing.ne.jp/index_p.html"><img src="../figures/logos/netprint.svg" height="20"/></a> | 運用ツール開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40"/> | 2021年07月 - 2021年09月 |
+| <a href="https://www.printing.ne.jp/index_p.html"><img src="../figures/logos/netprint.svg" height="20"/></a> | [運用ツール開発](../resume/fujifilm_business_innovation/01.md) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40"/> | 2021年07月 - 2021年09月 |
 
 ## 資格
 
@@ -66,23 +66,23 @@
 
 ### ジャーナル論文
 
-|Noise-robust transparent visualization of large-scale point clouds<br>acquired by laser scanning|
+| Noise-robust transparent visualization of large-scale point clouds<br>acquired by laser scanning |
 |:-:|
-|<img src="../figures/Paper/ISPRSJ.png" width="1000">|
-|ISPRS Journal of Photogrammetry and Remote Sensing,<br>vol.161, pp.124-134, March 2020.|
-|[h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (at the time of acceptance)|
-|[[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|
+| <img src="../figures/Paper/ISPRSJ.png" width="1000"> |
+| ISPRS Journal of Photogrammetry and Remote Sensing,<br>vol.161, pp.124-134, March 2020. |
+| [h5-index: 77](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ISPRS+Journal+of+Photogrammetry&btnG=), [IF: 7.319](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (at the time of acceptance) |
+| [[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004) |
 
 ## 受賞歴
 
-| 最優秀賞  | 最優秀プレゼンテーション賞 | 最優秀論文賞 |
+| 応用情報技術者 | 優秀修了生 | 優秀研究賞 |
 |:-:|:-:|:-:|
-|<img src="../figures/Awards/Best_Award.jpeg" width="666">|<img src="../figures/Awards/Best_Presentation_Award.jpeg" width="333">|<img src="../figures/Awards/Best_Paper_Award.png" width="333">|
-| 2017年07月18日 | 2018年04月19日 | 2019年05月07日 |
-|[[video]](https://vimeo.com/219812457), [[slide]](https://speakerdeck.com/tom_uchida/dezitaruatogachuang-richu-suxin-siiti-yan)|[[video]](https://vimeo.com/265704935), [[slide]](https://speakerdeck.com/tom_uchida/interactive-point-cloud-processing-application)|[[poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg)|
+| <img src="../figures/Certificates/AP.png" width="333"> | <img src="../figures/Awards/GCI2020Winter.png" width="333"> | <img src="../figures/Awards/Outstanding_Student_Paper_Award.jpeg" width="333"> |
+| 2021年06月25日 | 2021年03月12日 | 2020年03月20日 |
+| - | [[slide]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task) | [paper](https://doi.org/10.1016/j.isprsjprs.2020.01.004) |
 
-| 優秀研究賞 | 優秀修了生 | 応用情報技術者 |
+| 最優秀論文賞 | 最優秀プレゼンテーション賞 | 最優秀賞 |
 |:-:|:-:|:-:|
-|<img src="../figures/Awards/Outstanding_Student_Paper_Award.jpeg" width="333">|<img src="../figures/Awards/GCI2020Winter.png" width="333">|<img src="../figures/Certificates/AP.png" width="333">|
-| 2020年03月20日 | 2021年03月12日 | 2021年06月25日 |
-[[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|[[slide]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)| - |
+| <img src="../figures/Awards/Best_Paper_Award.png" width="333"> | <img src="../figures/Awards/Best_Presentation_Award.jpeg" width="333"> | <img src="../figures/Awards/Best_Award.jpeg" width="666"> |
+| 2019年05月07日 | 2018年04月19日 | 2017年07月18日 |
+| [[poster]](https://github.com/tom-uchida/Academic_Conference/blob/master/The2ndVW/poster/The2ndVW_tuchida_master.jpg) | [[video]](https://vimeo.com/265704935), [[slide]](https://speakerdeck.com/tom_uchida/interactive-point-cloud-processing-application) | [[video]](https://vimeo.com/219812457), [[slide]](https://speakerdeck.com/tom_uchida/dezitaruatogachuang-richu-suxin-siiti-yan) |
