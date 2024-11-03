@@ -1,5 +1,5 @@
 <p align="center">
-  <b><big>内田 知将（Tomomasa Uchida）</big></b>
+  <b>内田 知将（Tomomasa Uchida）</b>
 </p>
 
 <p align="center">
@@ -12,15 +12,19 @@
   <a href="https://github.com/tom-uchida">
     <img src="../figures/logos/github.svg" width="50" height="50"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/tomomasa-uchida">
     <img src="../figures/logos/linkedin.svg" width="50" height="50"/>
   </a>
+  &nbsp;
   <a href="https://www.wantedly.com/id/tomomasa_uchida">
     <img src="../figures/logos/wantedly.svg" width="50" height="50"/>
   </a>
+  &nbsp;
   <a href="https://speakerdeck.com/tom_uchida">
     <img src="../figures/logos/speakerdeck.svg" width="50" height="50"/>
   </a>
+  &nbsp;
   <a href="https://vimeo.com/tomomasa">
     <img src="../figures/logos/vimeo.svg" width="50" height="50"/>
   </a>
@@ -32,7 +36,7 @@
 
 
 #### 
-| 期間 | 業務内容 | 使用技術 |
+| 期間 | 業務内容 | 技術スタック |
 |:-|:-|:-|
 | 2024年7月 - 現在 | 印刷サービスのバックエンド開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> |
 | 2024年4月 - 現在 | コンテンツサービスのバックエンド開発 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> |
@@ -76,5 +80,5 @@
 | 優秀研究賞 | 優秀修了生 | 応用情報技術者 |
 |:-:|:-:|:-:|
 |<img src="../figures/Awards/Outstanding_Student_Paper_Award.jpeg" width="333">|<img src="../figures/Awards/GCI2020Winter.png" width="333">|<img src="../figures/Certificates/AP.png" width="333">|
-| 2020年3月20日 | 2021年3月12日 | 20216月25日 |
+| 2020年3月20日 | 2021年3月12日 | 2021年6月25日 |
 [[paper]](https://doi.org/10.1016/j.isprsjprs.2020.01.004)|[[slide]](https://speakerdeck.com/tom_uchida/gci-2020-winter-final-task)| - |
