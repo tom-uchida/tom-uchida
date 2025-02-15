@@ -52,7 +52,6 @@
 
 | 資格名 | 認定団体 | 取得日 |
 |:-|:-|:-|
-| 生成AIパスポート | 生成AI活用普及協会| 2024年11月 |
 | [Professional Cloud Developer](https://google.accredible.com/fd6356f8-0aab-4d23-85c7-9f3a5a5f4e24?key=15ffabd02c2ef0e12fcfd7ac735480b732f4be6ab77d99d211ceb2057cb498f1) | Google | 2023年07月 |
 | [Associate Cloud Engineer](https://www.credential.net/80b3f42e-29ae-40be-a26c-0ecb3ccefe07?key=b76aae0516984a241f409600f10a60e8966a771c895ef3e146489f3260898452) | Google | 2021年11月 |
 | 応用情報技術者 | IPA 情報処理推進機構 | 2021年06月 |
